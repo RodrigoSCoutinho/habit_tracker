@@ -16,4 +16,11 @@ class HabitatDatabase extends ChangeNotifier {
   // Save first data of app startup (for heatmap)
 
   // Get first data of app startup (for heatmap)
+
+
+  /*
+  
+  CRUD OPERATIONS 
+  
+  */
 }
